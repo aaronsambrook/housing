@@ -1,3 +1,4 @@
+# This script analyses housing data for Luxembourg
 library(dplyr)
 library(purrr)
 library(readxl)
